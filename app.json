@@ -1,6 +1,7 @@
 {
   "name": "meme-game",
   "description": "A toy API for an online game of crafting funny memes",
+  "stack": "heroku-20",
   "buildpacks": [
     {
       "url": "heroku/ruby"
